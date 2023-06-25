@@ -1,0 +1,15 @@
+button{
+    border: none;
+    background: #f9c0fc;
+    padding: 2px 5px;
+    cursor: pointer;
+}
+input{
+    border: 2px solid #f9c0fc;
+}
+div{
+    border: 2px solid #f9c0fc;
+    margin: 5px 0px;
+    width: 400px;
+    height: 400px;
+}
